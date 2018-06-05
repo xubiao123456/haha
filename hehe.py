@@ -7,4 +7,8 @@ print 4444444
 
 print 555
 
+
+print 777
+
+
 print(6666)
