@@ -6,3 +6,5 @@ print(3333333)
 print 4444444
 
 print 555
+
+print(6666)
