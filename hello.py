@@ -7,3 +7,5 @@ print 44444
 
 print('今天有点困')
 
+
+print '666'

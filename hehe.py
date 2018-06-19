@@ -17,9 +17,11 @@ print 8888888
 print 999999999
 
 
-print 000000000
+
 
 
 
 print('今天有点累')
+
+print 6666
 
