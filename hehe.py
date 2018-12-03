@@ -9,3 +9,4 @@ print 6666
 print('99999999')
 print '66666666'
 print('888888')
+print '777777'
