@@ -1,4 +1,4 @@
-print('hahahhahaha')
+print('cehsi master')
 print 555
 print 777
 print(6666)
