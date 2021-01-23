@@ -1,0 +1,2 @@
+print('haokun')
+print('haole')
